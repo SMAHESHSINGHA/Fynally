@@ -12,7 +12,8 @@ Deployed on (add your link after deploying to **Vercel**/**Netlify**/**GitHub Pa
 - Modern, responsive UI
 
 ## 🧭 Pages
-- **Home** — brand hero, journey steps, CTA
+- **Home** — brand hero, journey steps, CTA #<img width="1912" height="881" alt="image" src="https://github.com/user-attachments/assets/dfebc904-c094-4970-8ee6-3f5acd126fea" />
+
 - **Student Resources**
 - **Learning**
 - **Internships** — filters & sample data
