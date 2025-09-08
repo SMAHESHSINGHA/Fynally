@@ -14,10 +14,14 @@ Deployed on (add your link after deploying to **Vercel**/**Netlify**/**GitHub Pa
 ## 🧭 Pages
 - **Home** — brand hero, journey steps, CTA #<img width="1912" height="881" alt="image" src="https://github.com/user-attachments/assets/dfebc904-c094-4970-8ee6-3f5acd126fea" />
 
-- **Student Resources**
-- **Learning**
-- **Internships** — filters & sample data
-- **Employment** — tips & sample jobs
+- **Student Resources**#<img width="1915" height="870" alt="image" src="https://github.com/user-attachments/assets/8412a075-6a94-4b39-ab20-4eae660db1d5" />
+
+- **Learning**#<img width="1902" height="865" alt="image" src="https://github.com/user-attachments/assets/d8fbbdcc-4ea9-4a3d-bfd1-b1b2df5f7423" />
+
+- **Internships** — filters & sample data #<img width="1916" height="862" alt="image" src="https://github.com/user-attachments/assets/9f700870-95bd-40b5-9e77-972ff852b824" />
+
+- **Employment** — tips & sample jobs #<img width="1916" height="857" alt="image" src="https://github.com/user-attachments/assets/d5fc7b4d-9c19-4083-afa1-72715ea1055b" />
+
 
 ## 🛠️ Local Setup
 ```bash
